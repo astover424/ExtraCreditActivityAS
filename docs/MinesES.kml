@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Minas.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>El divisadero</name>
+		<LookAt>
+			<longitude>-88.05191735541082</longitude>
+			<latitude>13.60160005931662</latitude>
+			<altitude>0</altitude>
+			<heading>4.652543457802081e-05</heading>
+			<tilt>20.24091620416639</tilt>
+			<range>321.1846190471291</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.05218968363839,13.60118774392276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>San Francisco El Dorado</name>
+		<LookAt>
+			<longitude>-88.67535035000002</longitude>
+			<latitude>13.83710265</latitude>
+			<altitude>0</altitude>
+			<heading>-3.14576736463501e-14</heading>
+			<tilt>0</tilt>
+			<range>1000.000000000549</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.67535035,13.83710265,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Potonico</name>
+		<LookAt>
+			<longitude>-88.89228142142146</longitude>
+			<latitude>13.96551601926516</latitude>
+			<altitude>0</altitude>
+			<heading>1.458652132870572e-05</heading>
+			<tilt>21.28317225123728</tilt>
+			<range>398.1320134470396</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.89228142142146,13.96551601926516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>El Paisnal</name>
+		<LookAt>
+			<longitude>-89.21700170404807</longitude>
+			<latitude>13.97551209850942</latitude>
+			<altitude>0</altitude>
+			<heading>1.438283800905974e-09</heading>
+			<tilt>0</tilt>
+			<range>1059.432172507574</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-89.21700170404807,13.97551209850942,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mineral El Potosi</name>
+		<LookAt>
+			<longitude>-88.31584325516343</longitude>
+			<latitude>13.66626521089868</latitude>
+			<altitude>0</altitude>
+			<heading>0.0005943018368629848</heading>
+			<tilt>23.57601937303893</tilt>
+			<range>560.894277949792</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.31666584937291,13.6666769805431,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Cerro Colorado</name>
+		<LookAt>
+			<longitude>-89.62427326339521</longitude>
+			<latitude>14.19095046726599</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0003064753705922529</heading>
+			<tilt>19.62525738498192</tilt>
+			<range>124.0545170159228</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-89.62397710240421,14.19115490862353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mina Cerro Blanco</name>
+		<LookAt>
+			<longitude>-89.66478592478032</longitude>
+			<latitude>14.3495682009721</latitude>
+			<altitude>0</altitude>
+			<heading>0.003490973481840318</heading>
+			<tilt>11.3744185524574</tilt>
+			<range>845.7441201109867</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-89.66636617391788,14.35187122132835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>El Hormiguero</name>
+		<LookAt>
+			<longitude>-88.04832879999994</longitude>
+			<latitude>13.53816250000001</latitude>
+			<altitude>0</altitude>
+			<heading>-1.212586472307966e-14</heading>
+			<tilt>0</tilt>
+			<range>1047.602547426746</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.04832879999992,13.5381625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Río Seco</name>
+		<LookAt>
+			<longitude>-88.08885279999997</longitude>
+			<latitude>13.6159158</latitude>
+			<altitude>0</altitude>
+			<heading>-8.647133040228935e-15</heading>
+			<tilt>0</tilt>
+			<range>4188.892018644086</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.08885279999996,13.6159158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>San Marcos</name>
+		<LookAt>
+			<longitude>-88.5</longitude>
+			<latitude>13.3</latitude>
+			<altitude>0</altitude>
+			<heading>-8.647133040228935e-15</heading>
+			<tilt>0</tilt>
+			<range>4188.892018644086</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-88.5,13.3,0</coordinates>
+		</Point>
+		</Placemark>
+</Document>
+</kml>
